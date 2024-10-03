@@ -1,0 +1,59 @@
+{
+  "id": 33,
+  "date": "2024-02-26T08:19:08",
+  "date_gmt": "2024-02-26T08:19:08",
+  "guid": { "rendered": "https://Paysusofi.local/?page_id=33" },
+  "modified": "2024-02-26T16:41:52",
+  "modified_gmt": "2024-02-26T16:41:52",
+  "slug": "contact-us",
+  "status": "publish",
+  "type": "page",
+  "link": "https://www.Paysusofi.com/contact-us/",
+  "title": { "rendered": "Contact Us" },
+  "content": { "rendered": "", "protected": false },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "footnotes": "" },
+  "class_list": ["post-33", "page", "type-page", "status-publish", "hentry"],
+  "_links": {
+    "self": [{ "href": "https://www.Paysusofi.com/wp-json/wp/v2/pages/33" }],
+    "collection": [{ "href": "https://www.Paysusofi.com/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://www.Paysusofi.com/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.Paysusofi.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.Paysusofi.com/wp-json/wp/v2/comments?post=33"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 33,
+        "href": "https://www.Paysusofi.com/wp-json/wp/v2/pages/33/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 410,
+        "href": "https://www.Paysusofi.com/wp-json/wp/v2/pages/33/revisions/410"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://www.Paysusofi.com/wp-json/wp/v2/media?parent=33" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

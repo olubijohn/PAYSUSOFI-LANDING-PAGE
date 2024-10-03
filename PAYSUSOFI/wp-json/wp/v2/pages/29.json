@@ -1,0 +1,65 @@
+{
+  "id": 29,
+  "date": "2024-02-26T08:18:55",
+  "date_gmt": "2024-02-26T08:18:55",
+  "guid": { "rendered": "https://Paysusofi.local/?page_id=29" },
+  "modified": "2024-02-26T16:05:14",
+  "modified_gmt": "2024-02-26T16:05:14",
+  "slug": "airtime-purchase",
+  "status": "publish",
+  "type": "page",
+  "link": "https://www.Paysusofi.com/services/airtime-purchase/",
+  "title": { "rendered": "Airtime Purchase" },
+  "content": { "rendered": "", "protected": false },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 25,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "footnotes": "" },
+  "class_list": ["post-29", "page", "type-page", "status-publish", "hentry"],
+  "_links": {
+    "self": [{ "href": "https://www.Paysusofi.com/wp-json/wp/v2/pages/29" }],
+    "collection": [{ "href": "https://www.Paysusofi.com/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://www.Paysusofi.com/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.Paysusofi.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.Paysusofi.com/wp-json/wp/v2/comments?post=29"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://www.Paysusofi.com/wp-json/wp/v2/pages/29/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 358,
+        "href": "https://www.Paysusofi.com/wp-json/wp/v2/pages/29/revisions/358"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://www.Paysusofi.com/wp-json/wp/v2/pages/25"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://www.Paysusofi.com/wp-json/wp/v2/media?parent=29" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
